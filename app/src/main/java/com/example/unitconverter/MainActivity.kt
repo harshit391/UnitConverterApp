@@ -233,7 +233,7 @@ fun UnitConverter() {
                         }
                     )
                     DropdownMenuItem(
-                        text = { Text("Feet")},
+                        text = {Text("Feet")},
                         onClick = {
                             iExpanded = false
                             inputUnit = "Feet"
