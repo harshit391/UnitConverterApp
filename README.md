@@ -4,17 +4,17 @@ This Android application, developed in Kotlin using Android Studio and Jetpack C
 
 **Features**
 \
-•	Length Conversions: Convert between various length units.
-•	User-Friendly Interface: Simple and intuitive design for seamless usability.
+•	Length Conversions: Convert between various length units.\
+•	User-Friendly Interface: Simple and intuitive design for seamless usability.\
 \
-
+\
 **How to Use**
 1.	Download: Download the apk File 
 2.	Open in Android Studio: Import the project into Android Studio.
 3.	Build and Run: Build the project and run the app on an emulator or physical device.
 4.	Conversion: Explore different length conversions and enjoy the app!.
 \
-
+\
 **Future Plans**
 \
 \
