@@ -17,8 +17,10 @@ This Android application, developed in Kotlin using Android Studio and Jetpack C
 
 **Future Plans**
 \
-•	Enhance unit categories and add more conversion options.
-•	Improve UI/UX for a better user experience.
-•	Incorporate additional functionalities and expand beyond length conversions.
+\
+•	Enhance unit categories and add more conversion options.\
+•	Improve UI/UX for a better user experience.\
+•	Incorporate additional functionalities and expand beyond length conversions.\
+\
 \
 *Thank you for checking out this project! Happy converting! 📱✨*
