@@ -17,7 +17,7 @@ This Android application, developed in Kotlin using Android Studio and Jetpack C
 4.	Conversion: Explore different length conversions and enjoy the app!.
 
 \
-\
+
 **Future Plans**
 \
 \
