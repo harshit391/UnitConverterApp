@@ -1,7 +1,8 @@
 # **Unit Converter App**
 
-This Android application, developed in Kotlin using Android Studio and Jetpack Compose, serves as a basic yet functional unit converter primarily focusing on length conversions.\
-
+This Android application, developed in Kotlin using Android Studio and Jetpack Compose, serves as a basic yet functional unit converter primarily focusing on length conversions.
+\
+\
 **Features**
 \
 •	Length Conversions: Convert between various length units.\
