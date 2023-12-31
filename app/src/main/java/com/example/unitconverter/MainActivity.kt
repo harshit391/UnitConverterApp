@@ -52,7 +52,6 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             UnitConverterTheme {
-                // A surface container using the 'background' color from the theme
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
@@ -136,10 +135,9 @@ fun UnitConverter() {
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        Text("Unit Converter" /*, modifier =  Modifier.padding(100.dp) */ , style = customTextStyle)
+        Text("Unit Converter", style = customTextStyle)
         Spacer(modifier = Modifier.height(16.dp))
-        OutlinedTextField(value = inputValue, onValueChange = {
-        /* Here Goes What should happen when the value of our OutlinedTextField Changes*/
+        OutlinedTextField(value = inputValue, singleLine = true ,onValueChange = {
             inputValue = it
             convertUnit()
         }, label = { Text("Enter Value") },
@@ -150,7 +148,6 @@ fun UnitConverter() {
             keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number)
         )
         Spacer(modifier = Modifier.height(16.dp))
-        /* Here all he UI elements will be stacked below each other*/
         Row {
             Box{
                 Button(onClick = { iExpanded = true },shape = RectangleShape, colors = ButtonDefaults.buttonColors
