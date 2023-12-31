@@ -16,6 +16,7 @@ This Android application, developed in Kotlin using Android Studio and Jetpack C
 3.	Build and Run: Build the project and run the app on an emulator or physical device.
 4.	Conversion: Explore different length conversions and enjoy the app!.\
 \
+\
 **Future Plans**
 \
 \
