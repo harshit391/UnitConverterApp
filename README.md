@@ -15,9 +15,10 @@ This Android application, developed in Kotlin using Android Studio and Jetpack C
 2.	Open in Android Studio: Import the project into Android Studio.
 3.	Build and Run: Build the project and run the app on an emulator or physical device.
 4.	Conversion: Explore different length conversions and enjoy the app!.
+
 \
 \
-\**Future Plans**\
+**Future Plans**
 \
 \
 •	Enhance unit categories and add more conversion options.\
